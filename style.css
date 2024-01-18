@@ -65,8 +65,8 @@ body {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	width: 90℅;
-	height: 100px;
+	width: 90vw;
+	height: 800px;
 	filter: drop-shadow(5px 5px 25px black);
 	text-decoration: underline;
 }
