@@ -65,9 +65,10 @@ body {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	width: 100%;
-	height: auto;
+	width: 80vw;
+	height: 70vh;
 	filter: drop-shadow(5px 5px 25px black);
+	text-decoration: underline;
 }
 
 .content {
@@ -160,8 +161,9 @@ h1 {
 	font-size: 80pt;
 	margin: 0;
 	font-weight: 1;
-	color: #26231e;
+	color: #147086;
 	mix-blend-mode: color-burn;
+	text-shadow: #147086;
 }
 
 @media screen and (max-width: 1071px) {
@@ -221,10 +223,11 @@ p {
 	font-size: 16pt;
 	font-weight: 400;
 	line-height: 28pt;
-	color: #565046;
+	color: #000000;
 	letter-spacing: 0.5px;
 	word-spacing: 3px;
 	text-shadow: 0.2px 0.2px 1.3px Sienna;
+	font-family: "roboto mono";
 }
 
 p:first-of-type {
@@ -250,6 +253,6 @@ p span {
     display: flex;
     justify-content: flex-end;
     position: relative;
-    bottom: 588px;
-    right: -160px;
+    bottom: 600px;
+    right: -170px;
   }
