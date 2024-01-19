@@ -181,9 +181,9 @@ p {
 	line-height: 28pt;
 	color: #000000;
 	letter-spacing: 0.5px;
-	word-spacing: 3px;
+	word-spacing: 1px;
 	text-shadow: 0.2px 0.2px 1.3px Sienna;
-	font-family: cursive "roboto mono";
+	font-family: cursive;
 	text-align: center;
 }
 
