@@ -130,31 +130,6 @@ body {
 	overflow: auto;
 }
 
-@media screen and (max-width: 1650px) {
-	.content {
-		width: 60%;
-	}
-}
-
-@media screen and (max-width: 1500px) {
-	.content {
-		width: 70%;
-	}
-}
-
-@media screen and (max-width: 868px) {
-	.content {
-		padding: 30px 60px 50px 60px;
-		width: 75%;
-	}
-}
-
-@media screen and (max-width: 560px) {
-	.content {
-		padding: 30px 30px 50px 30px;
-		width: 80%;
-	}
-}
 
 h1 {
 	font-family: "Yellowtail", cursive;
@@ -166,25 +141,6 @@ h1 {
 	text-shadow: #147086;
 }
 
-@media screen and (max-width: 1071px) {
-	h1 {
-		font-size: 60pt;
-	}
-}
-
-@media screen and (max-width: 756px) {
-	h1 {
-		font-size: 46pt;
-		line-height: 46pt;
-		padding: 20px 0px;
-	}
-}
-
-@media screen and (max-width: 370px) {
-	h1 {
-		font-size: 40pt;
-	}
-}
 
 hr {
 	width: 80%;
