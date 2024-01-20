@@ -3,7 +3,8 @@
 }
 
 ::-webkit-scrollbar {
-	width: 20px;
+	width: 10px;
+	height: 10px;
 }
 
 ::-webkit-scrollbar-track {
@@ -209,4 +210,3 @@ p span {
     bottom: 600px;
     right: -170px;
   }
-
