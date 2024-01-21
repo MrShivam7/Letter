@@ -163,15 +163,14 @@ h2 {
 	text-shadow: 0.3px 0.3px 2px Sienna;
 }
 
-h3 {
-	text-decoration: 1px dashed underline #888;
-	letter-spacing: 2px;
-	font-size: 20pt;
+h4 {
+	letter-spacing: 1px;
+	font-size: 30px;
 	font-weight: 300;
 	font-style: italic;
-	color: #35312b;
-	margin-bottom: 40px;
-	text-shadow: 0.6px 0.6px 1px Sienna;
+	color: #1691a7;
+	text-shadow: 0.6px 0.6px 1px rgb(23, 190, 212);
+	text-align: center;
 }
 
 
